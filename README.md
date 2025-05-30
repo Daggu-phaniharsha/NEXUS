@@ -7,4 +7,4 @@
 * It req t2.medium & 30 GB EBS volumes in AWS server.
 * nexus uses java-17
 * ALTERTAVIVES for nexus: JFROG, S3, ---etc.
-* * PORT: 8081
+* PORT: 8081
