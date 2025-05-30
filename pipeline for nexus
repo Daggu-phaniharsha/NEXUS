@@ -4,7 +4,7 @@ pipeline {
     agent any
     
     stages {
-        stage('checkout') {
+        stage('checkout') { 
             steps {
                 git 'https://github.com/devopsbyraham/jenkins-java-project.git'
             }
